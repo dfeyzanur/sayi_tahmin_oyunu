@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\feyza\\tahmin_oyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658E9605-6A1B-43F6-807C-3B294676EC30}|tahmin_oyunu\\tahmin_oyunu.csproj|d:\\feyza\\tahmin_oyunu\\tahmin_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E9605-6A1B-43F6-807C-3B294676EC30}|tahmin_oyunu\\tahmin_oyunu.csproj|solutionrelative:tahmin_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E9605-6A1B-43F6-807C-3B294676EC30}|tahmin_oyunu\\tahmin_oyunu.csproj|D:\\feyza\\tahmin_oyunu\\tahmin_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E9605-6A1B-43F6-807C-3B294676EC30}|tahmin_oyunu\\tahmin_oyunu.csproj|solutionrelative:tahmin_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E9605-6A1B-43F6-807C-3B294676EC30}|tahmin_oyunu\\tahmin_oyunu.csproj|D:\\feyza\\tahmin_oyunu\\tahmin_oyunu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E9605-6A1B-43F6-807C-3B294676EC30}|tahmin_oyunu\\tahmin_oyunu.csproj|solutionrelative:tahmin_oyunu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\feyza\\tahmin_oyunu\\tahmin_oyunu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tahmin_oyunu\\Form1.Designer.cs",
+              "ToolTip": "D:\\feyza\\tahmin_oyunu\\tahmin_oyunu\\Form1.Designer.cs",
+              "RelativeToolTip": "tahmin_oyunu\\Form1.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADgv0EAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:34:46.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\feyza\\tahmin_oyunu\\tahmin_oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "tahmin_oyunu\\Form1.cs",
+              "ToolTip": "D:\\feyza\\tahmin_oyunu\\tahmin_oyunu\\Form1.cs",
+              "RelativeToolTip": "tahmin_oyunu\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:31:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\feyza\\tahmin_oyunu\\tahmin_oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "tahmin_oyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\msi\\source\\repos\\tahmin_oyunu\\tahmin_oyunu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:30:17.213Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

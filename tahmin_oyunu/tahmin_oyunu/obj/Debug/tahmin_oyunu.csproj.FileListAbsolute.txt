@@ -1,0 +1,10 @@
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\bin\Debug\tahmin_oyunu.exe.config
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\bin\Debug\tahmin_oyunu.exe
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\bin\Debug\tahmin_oyunu.pdb
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\obj\Debug\tahmin_oyunu.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\obj\Debug\tahmin_oyunu.Form1.resources
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\obj\Debug\tahmin_oyunu.Properties.Resources.resources
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\obj\Debug\tahmin_oyunu.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\obj\Debug\tahmin_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\obj\Debug\tahmin_oyunu.exe
+C:\Users\msi\source\repos\tahmin_oyunu\tahmin_oyunu\obj\Debug\tahmin_oyunu.pdb
